@@ -1,10 +1,5 @@
 {
-  "name": "cool dank",
-  "next": [
-    {
-      "site": "https://wring-example2.netlify.app"
-    }
-  ],
+  "next": 2,
   "prev": [
     {
       "site": "https://wring-example2.netlify.app"
